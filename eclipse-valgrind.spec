@@ -8,7 +8,7 @@
 
 Name:           eclipse-valgrind
 Version:        0.6.1
-Release:        2
+Release:        4
 Summary:        Valgrind Tools Integration for Eclipse
 
 Group:          Development/Java
