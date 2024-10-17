@@ -13,7 +13,7 @@ Summary:        Valgrind Tools Integration for Eclipse
 
 Group:          Development/Java
 License:        EPL
-URL:            http://www.eclipse.org/linuxtools/projectPages/valgrind
+URL:            https://www.eclipse.org/linuxtools/projectPages/valgrind
 # Fetched using: sh %{name}-fetch-src.sh %{src_repo_tag}
 Source0:        %{name}-fetched-src-%{src_repo_tag}.tar.bz2
 Source1:        %{name}-fetch-src.sh
